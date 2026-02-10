@@ -11,3 +11,5 @@ Changes that are W.I.P.
 - Some Graphic Design Stuff (not very high priority)
 - Highlighted Songs (means they are undeniable bangers)
 - Songs for Q and X (😭😭)
+
+Website Link: https://poogllz.github.io/schizophrenic-fever/
