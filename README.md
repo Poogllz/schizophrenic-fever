@@ -1,2 +1,2 @@
 # schizophrenic-fever
-What is up fellas? This is my OFFICIAL website that holds all factors and features of hundreds of songs because I wanted to or something. Anyways you will find a lot of bangers here, and even more bangers as well as tests and quizzes related to songs, and of course Youtube links and mp3 files for each song. Have fun exploring my library.
+What is up fellas? This is my OFFICAL website, home to hundreds of songs I like just because I felt like making it I guess. You’ll find a ton of bangers here, plus even more bangers, along with quizzes, tests, YouTube links, and MP3 files for every track. Have fun exploring my library.
