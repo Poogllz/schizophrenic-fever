@@ -1,5 +1,7 @@
 # schizophrenic-fever
 
+This project is NOT finished so some features are not done/started, expect great things
+
 Changes that are W.I.P.
 - Playlist Quiz (see how many songs you know)
 - Playlist Tierlist (rank all the songs on preference)
